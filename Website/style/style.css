@@ -1,0 +1,232 @@
+/* Darragh Duffy 260173 */
+
+*{
+
+    font-family: Tahoma;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+
+img{
+    float: left;
+    width: 30%;
+    padding: .5rem;
+}
+
+body{
+    text-align: center;
+    background-color: black; 
+    font-family: sans-serif;
+    padding:0;
+    margin: 0;
+    background-image: url("Background2_00368.jpg");
+}
+
+#indextitle
+{
+    float: left;
+}
+
+header{
+    background-color: hwb(307 0% 84%);
+    color: antiquewhite;
+}
+
+p{
+    text-align: justify;
+}
+
+#BOX1{
+    width: 23%; 
+    height: 40%; 
+    background-color: pink; 
+    display:inline-block;
+    color: red; 
+a:visited {
+    color: rgb(0, 0, 0);
+} 
+
+font-size: 400%;
+text-align: center;
+border-radius: 2rem;
+
+}
+
+#BOX2{
+    width: 23%;
+    height: 40%; 
+    background-color: pink; 
+    display:inline-block;
+    color: black;
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+font-size: 400%;
+text-align: center;
+border-radius: 2rem;
+}
+
+#BOX3{
+    width: 23%; 
+    height: 40%; 
+    background-color:  pink; 
+    display:inline-block;
+    color: black;
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+font-size: 400%;
+text-align: center;
+border-radius: 2rem;
+}
+
+
+#BOX4{
+    width: 23%; 
+    height: 40%; 
+    background-color:  pink; 
+    display:inline-block;
+    color: black;
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+font-size: 400%;
+text-align: center;
+border-radius: 2rem;
+}
+
+#ffviirebirthbox{
+    width: 15%;
+    height: 40%;
+}
+
+#eoebox{
+    width: 15%;
+    height: 40%;
+}
+
+aside{
+width: 30%;
+float: left;
+margin-top: 10px;
+margin:0;
+
+}
+
+
+
+.wingdings{
+    font-family: wingdings;
+}
+
+
+
+nav{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#navbar{
+    a:link{color: white;}
+    li{  display: inline;
+        color: white;
+        padding: 16px;
+        text-decoration: none;}
+    }
+
+
+a:link{
+text-decoration: none;
+}
+
+nav li a:hover {
+   color: pink;
+   text-decoration: underline;
+}
+
+
+li{
+    font-weight: bold;
+}
+
+section header{
+    background-color: hwb(318 47% 11%);
+    border: 10px solid hwb(318 47% 11%);
+    color: white;
+}
+
+article header{
+    background-color:hwb(318 47% 11%);
+    border: 10px solid hwb(318 47% 11%);
+    border-radius: 2rem;
+    color: white;
+}
+
+aside header{
+    background-color: hwb(318 47% 11%);
+    border: 10px solid hwb(318 47% 11%);
+    color: white;
+}
+
+
+.pauth{
+    font-style: italic;
+}
+
+article h3{
+    font-style: bold;
+}
+
+article{
+    border-radius: 70px;
+    margin: 10px;
+}
+
+footer{
+border: 3px solid hwb(307 0% 84%);
+clear: both;
+background-color: hwb(307 0% 84%);
+color: white;
+padding: 5px 20px;
+position: fixed; bottom: 0
+}
+
+#mainboxes
+{
+    padding: 5%;
+}
+
+#cgpar01{
+scale: 60%;
+}
+#cgpar02{
+    margin-right: 20%;
+    scale: 60%;
+}
+#cgpar03{
+    scale: 60%;
+    margin-left: 30%;
+}
+
+#cgtext{
+    padding: 7%;
+    text-align: center;
+}
+
+#ytvideo{
+    margin-left: 30%;
+}
+
+#blocktext{
+    padding: 2%;
+}
+
